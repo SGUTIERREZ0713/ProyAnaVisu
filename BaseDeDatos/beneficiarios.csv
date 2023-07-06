@@ -1,0 +1,51 @@
+id_beneficiarios,nombre,sexo,edad,nacionalidad,fechaIngreso,identificacion,id_servicio
+1,Daniel,Masculino,58,"Western Sahara",2015-02-17,6185414187,NULL
+2,Katelyn,Femenino,1,Tanzania,2023-06-15,7137582867,NULL
+3,Jessica,Femenino,72,Mexico,2004-09-25,4123598360,NULL
+4,Andrew,Masculino,42,Tuvalu,2006-06-30,2574736067,NULL
+5,Diane,Femenino,71,Belize,2006-02-22,2462639274,NULL
+6,Brendan,Masculino,67,Timor-Leste,2011-08-27,1050072078,NULL
+7,Christy,Femenino,70,Aruba,2003-11-22,7296437693,NULL
+8,Donna,Femenino,56,Barbados,2008-12-21,9343478718,NULL
+9,Kayla,Femenino,34,Slovenia,2006-10-06,9138224395,NULL
+10,Carla,Femenino,46,"Cook Islands",2019-12-18,420458315,NULL
+11,Jacob,Masculino,21,Peru,2019-05-07,1002326131,NULL
+12,Laura,Femenino,70,"Faroe Islands",2013-08-13,1803025658,NULL
+13,Brian,Masculino,60,Poland,2015-09-05,5987470955,NULL
+14,Joseph,Masculino,73,"Christmas Island",2007-01-27,6056330668,NULL
+15,Brianna,Femenino,7,Chad,2006-11-24,1378074642,NULL
+16,Sherry,Femenino,3,"Cocos (Keeling) Islands",2013-12-03,810286812,NULL
+17,Cynthia,Femenino,20,Iran,2020-04-08,8083106363,NULL
+18,Erica,Femenino,62,Rwanda,2013-11-06,4924447360,NULL
+19,Latoya,Femenino,5,"Trinidad and Tobago",2006-11-11,441215721,NULL
+20,Natalie,Femenino,60,Romania,2010-03-22,5559957462,NULL
+21,Daniel,Masculino,59,"South Africa",2019-10-08,9441539437,NULL
+22,Gina,Femenino,40,Mauritania,2008-10-17,3029457173,NULL
+23,Diane,Femenino,50,Ghana,2007-10-21,6607152587,NULL
+24,Michael,Masculino,11,Guam,2020-02-26,1605449088,NULL
+25,Kristina,Femenino,65,"New Zealand",2019-05-25,2313843610,NULL
+26,Jessica,Femenino,59,"New Caledonia",2017-12-15,1650911397,NULL
+27,Vickie,Femenino,30,Netherlands,2020-01-29,8526488800,NULL
+28,Angela,Femenino,69,Comoros,2012-05-15,3920640314,NULL
+29,Matthew,Masculino,49,Algeria,2009-05-11,3762432524,NULL
+30,James,Masculino,29,Iraq,2013-12-22,3201576670,NULL
+31,Michael,Masculino,13,Botswana,2009-05-16,5763893679,NULL
+32,Shannon,Femenino,50,Italy,2008-07-06,7407205920,NULL
+33,Amber,Femenino,15,Botswana,2004-02-29,1310672494,NULL
+34,Dana,Femenino,11,Turkmenistan,2013-02-01,4329693623,NULL
+35,David,Masculino,9,Yemen,2018-12-25,7515716974,NULL
+36,Wanda,Femenino,61,"San Marino",2012-01-31,147205772,NULL
+37,Lisa,Femenino,63,Guinea-Bissau,2015-11-26,722755586,NULL
+38,Frank,Masculino,40,Martinique,2022-01-16,8324989052,NULL
+39,Patricia,Femenino,69,Palau,2006-08-20,382733769,NULL
+40,Vanessa,Femenino,60,"French Southern Territories",2007-08-16,7163431066,NULL
+41,Kurt,Masculino,18,Zimbabwe,2012-01-03,5214773734,NULL
+42,Anthony,Masculino,9,"United States Virgin Islands",2010-10-22,2877593878,NULL
+43,Stephen,Masculino,81,Guernsey,2009-10-04,1870866969,NULL
+44,Michael,Masculino,52,"Wallis and Futuna",2013-05-19,9182011936,NULL
+45,Hailey,Femenino,14,Guadeloupe,2017-07-02,967019828,NULL
+46,Christopher,Masculino,31,"El Salvador",2007-11-26,9589762014,NULL
+47,Brandon,Masculino,28,"Saint Vincent and the Grenadines",2020-06-10,5020263635,NULL
+48,Anita,Femenino,55,Tokelau,2020-12-21,5896304774,NULL
+49,David,Masculino,15,"Sri Lanka",2010-07-03,6779671361,NULL
+50,Wayne,Masculino,40,Aruba,2010-04-14,9979570043,NULL
