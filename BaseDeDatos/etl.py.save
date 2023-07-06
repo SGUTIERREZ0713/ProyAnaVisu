@@ -1,0 +1,34 @@
+import pandas as pd
+
+# Paso 1: Extracción de datos desde una fuente (por ejemplo, un archivo CSV)
+df = pd.read_csv('departamentos.csv')
+df = pd.read_csv('oficinas.csv')
+
+
+# Paso 2: Transformación de los datos (por ejemplo, aplicar ciertas operaciones o filtros)
+df['edad_doble'] = df['edad'] * 2
+
+# Paso 3: Cargar los datos transformados en una nueva fuente (por ejemplo, un archivo CSV o una base de datos)
+df.to_csv('datos_transformados.csv', index=False)
+
+# Opcionalmente, si deseas cargar los datos en una base de datos SQL, puedes utilizar pandas y el conector de la base de datos correspondiente:
+
+import mysql.connector
+
+# Configuración de la conexión a la base de datos
+cnx = mysql.connector.connect(user='usuario', password='contraseña',
+                              host='localhost', database='basedatos')
+
+# Crear un cursor para ejecutar consultas SQL
+cursor = cnx.cursor()
+
+# Crear la tabla en la base de datos (si no existe)
+cursor.execute('CREATE TABLE IF NOT EXISTS tabla (nombre VARCHAR(50), edad INT, edad_doble INT)')
+
+# Insertar los datos transformados en la tabla
+for index, row in df.iterrows():
+    cursor.execute("INSERT INTO tabla (nombre, edad, edad_doble) VALUES (%s, %s, %s)", (row['nombre'], row['edad'], row['edad_doble']))
+
+# Confirmar los cambios y cerrar la conexión
+cnx.commit()
+cnx.close()

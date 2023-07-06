@@ -1,0 +1,14 @@
+id,ciudad,servicio,id_proyectos,id_departamentos,id_servicios
+1,CUENCA,FSL,43,3,1
+2,IBARRA,ICLA,31,5,2
+3,MANTA,ICLA,27,4,4
+4,EL COCA,Vivienda,25,1,3
+5,AMBATO,Educacion,10,1,2
+6,HUAQUILLAS,ICLA,36,5,4
+7,MANTA,Educacion,19,5,2
+8,MANTA,FSL,16,1,3
+9,ESMERALDAS,Educacion,50,4,5
+10,TULCAN,Asistencia,26,4,1
+11,LAGO AGRIO,Educacion,16,4,5
+12,ESMERALDAS,ICLA,14,4,2
+13,SAN LORENZO,FSL,6,4,2
